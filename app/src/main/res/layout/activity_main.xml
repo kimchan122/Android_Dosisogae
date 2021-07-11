@@ -37,5 +37,4 @@
         android:layout_marginTop="60dp"
         ></androidx.recyclerview.widget.RecyclerView>
 
-
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
