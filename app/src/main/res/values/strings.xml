@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">도시 소개</string>
+    <string name="tab_text_1">특광역시/도</string>
+    <string name="tab_text_2">일반시/도</string>
+</resources>
