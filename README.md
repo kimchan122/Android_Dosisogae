@@ -2,8 +2,8 @@
 안드로이드 프로그래밍 연습
 
 ## 각 이미지 출처 명시
-city1_1: 본인이 촬영한 사진
-city1_2: 
+city1_1: 본인이 촬영한 사진\n
+city1_2: https://pxhere.com/ko/photo/1594401 - Jongsoo Hur\n
 city1_3: 본인이 촬영한 사진
 city1_4: https://commons.wikimedia.org/wiki/File:%EB%8C%80%EA%B5%AC_83%ED%83%80%EC%9B%8C(%ED%92%8D%EB%93%B1%EC%B6%95%EC%A0%9C).jpg - 대구광역시 이미지 조합 웹사이트
 city1_5: https://commons.wikimedia.org/wiki/File:%EA%B4%91%EC%A3%BC%EA%B4%91%EC%97%AD%EC%8B%9C%EC%B2%AD%EC%82%AC.jpg - Ssr1115
